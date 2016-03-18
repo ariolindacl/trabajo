@@ -1,0 +1,57 @@
+body{                              
+	background:purple;
+}
+.r{
+	text-align:center;
+	color:pink;
+}
+.container{
+	border:0px solid red;
+	width:960px;
+	margin:0 auto;
+}
+.container1{
+	border:4px solid red;
+	width:960px;
+	margin:0 auto;
+
+}
+.ayde{
+	text-align: center;
+	color: pink;
+	font-family: estencil;
+}
+.t{
+	color:blue;
+	font-family:calibri;
+text-decoration:green;
+}
+.r{
+	border:10px solid red;
+	width:500px;
+	height: 500px;
+	margin:0 auto;
+	border-radius:50%; 
+
+
+}
+.border-panel{
+	border: 6px solid pink;
+	height: 900px;
+	background-color:yellowgreen;
+	text-align:center;
+
+}
+.qo{
+	text-align:center;
+	color:blue;
+}
+.gui {
+	text-align:center;
+	color:pink;
+	font-family:ebrima;
+}
+.toy{
+	text-align:center;
+
+}
